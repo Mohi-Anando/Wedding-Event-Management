@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+  }
+  .pp1 {
+    width: 40%;
+    float: left;
+    margin-left: 80px;
+    margin-right: 40px;
+    padding: 30px;
+  }
+  .pp1 img {
+    height: 400px;
+  }
+  
